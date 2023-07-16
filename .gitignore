@@ -8,3 +8,4 @@ politech_parser/draft.py
 politech_parser/config.py
 *.zip
 .env
+tests/
