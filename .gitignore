@@ -1,0 +1,10 @@
+.coverage
+.vscode/
+.pre-commit-config.yaml
+setup.cfg
+.mypy_cache
+id.json
+politech_parser/draft.py
+politech_parser/config.py
+*.zip
+.env
